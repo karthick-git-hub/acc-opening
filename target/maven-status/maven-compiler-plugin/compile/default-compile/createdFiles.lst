@@ -1,6 +1,0 @@
-com\ao\constant\AccountOpeningConstants.class
-com\ao\model\JsonResponse.class
-com\ao\AccountOpeningApplication.class
-com\ao\service\AccountOpeningService.class
-com\ao\repository\AccountOpeningRepository.class
-com\ao\controller\AccountOpeningController.class
